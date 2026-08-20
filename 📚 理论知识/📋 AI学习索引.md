@@ -56,4 +56,4 @@ tags:
 
 - 知识卡片：`📚 理论知识/监督学习/`
 - 代码：`🔬 实操/监督学习/`
-- 远程：github.com/1234mhn/obsidian_nanan_portfolio
+- 远程：github.com/1234mhn/nanan_profile
